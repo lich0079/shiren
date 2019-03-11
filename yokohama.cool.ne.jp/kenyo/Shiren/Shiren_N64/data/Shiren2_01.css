@@ -1,0 +1,56 @@
+body	{color: #cfc; background: #006;}
+
+a	{text-decoration:none; font-weight: bolder;}
+:visited{color:#c93;}
+:link	{color:#96f;}
+:active	{color:#3c6;}
+:hover	{color:#3c6;}
+
+.text	{line-height: 120%; font-size: x-small;}
+.title	{
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 9pt;
+}
+.en	{font-family: "Arial";}
+.en2	{font-family: "Arial"; color: #cfc;}
+.num	{font-family: "Arial"; text-align: right;}
+
+table{
+	line-height:	120%;
+	font-size:	x-small;
+	border-style:	solid;
+	border-width:	1px;
+	border-color:	#f99;
+}
+td{
+	color:		#000;
+	background:	#ccc;
+	border-style:	solid;
+	border-width:	1px;
+	border-color:	#fff #999 #999 #fff;
+}
+th{
+	color:		#fff;
+	font-weight:	normal;
+	text-align:	right;
+	background:	#669;
+	border-style:	solid;
+	border-width:	1px;
+	border-color:	#99c #336 #336 #99c;
+}
+.tra{
+	color:		#cfc;
+	background:	#006;
+	border-width:	0px;
+	font-size: 9pt;
+	text-decoration: none;
+
+}
+.waku{
+	font-size:	small;
+	line-height:	100%;
+	border-width:	0px;
+}
+.th{background: #666}
+.text2{text-align: left;}

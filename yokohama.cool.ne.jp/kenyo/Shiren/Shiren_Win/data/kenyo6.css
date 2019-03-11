@@ -1,0 +1,36 @@
+.border {  border: 1pt solid; border-color: #00CCFF #0099FF}
+.blue {  color: #0099FF}
+.yellow {  color: #FFFF00}
+.red {  color: #FF0000}
+.green {  color: #00FF00}
+.skyblue {  color: #00FFFF}
+.midred {  color: #FF00FF}
+.orange {  color: #FFCC00}
+.white {  color: #FFFFFF}
+.deepblue {  color: #0000FF}
+.deepgreen {  color: #009900}
+.coffee {  color: #996600}
+tr {  font-size: 9pt; font-family: "Verdana", "Arial", "ËÎÌו"}
+body {  font-family: "Verdana", "Arial", "ËÎÌו"; font-size: 9pt; background-attachment: fixed; background-image:  url("../images/bk1.gif"/*tpa=http://yokohama.cool.ne.jp/kenyo/Shiren/Shiren_Win/images/bk1.gif*/)}
+.olive {  color: #808000}
+.Teal {  color: #008080}
+.Maroon {  color: #800000}
+.Navy {  color: #000080}
+.Gray {  color: #808080}
+.Purple {  color: #800080}
+.Silver {  color: #C0C0C0}
+a:hover {  color: #000000; background-color: #00CC00; text-decoration: underline overline}
+.greenblue {  color: #0099CC}
+.seablue {  color: #00CCFF}
+.midblue {  color: #0066FF}
+.td {
+	border-top: 1px solid #FFFFFF;
+	border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	border-left: 1px solid #FFFFFF;
+}
+.td2 {  border-color: #FFFFFF #000000 #000000 #FFFFFF; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.td3 {
+	border: 1px solid #000000;
+}
+a:active {  color: #000000; text-decoration: underline overline; background-color: #00CC00}

@@ -1,0 +1,50 @@
+body    {
+	color: #cfc;
+	background: url("../images/bk1.gif"/*tpa=http://yokohama.cool.ne.jp/kenyo/Shiren/Shiren_N64/images/bk1.gif*/);
+	font-size: 9pt;
+}
+
+a       {text-decoration:none; font-weight: bolder;}
+a:hover {color:#3c6;}
+
+.text   {line-height: 120%; font-size: 9pt;}
+.title  {font-family: "Arial"; font-weight: bolder;}
+.en     {font-family: "Arial";}
+.en2	{font-family: "Arial"; color: #cfc;}
+.num    {font-family: "Arial"; text-align: right;}
+.blue   {color: #00c;}
+.red    {color: #900;}
+.green  {color: #060;}
+
+table   {line-height: 120%; font-size: 9pt;
+         border-style: solid;
+         border-width: 1px;
+         border-color: #f99;}
+th      {font-weight: normal;
+         color: #fff; background: #666;
+         border-style: solid;
+         border-width: 1px;
+         border-color: #999 #333 #333 #999;}
+td      {
+	color: #000;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #fff #999 #999 #fff;
+	background-color: #9ac;
+
+}
+.b1     {background: #9ac;
+         border-color: #ccf #669 #669 #ccf;}
+.b2     {background: #669;color:#fff;
+         border-color: #99c #336 #336 #99c;}
+.b3     {background: #669; text-align: right;
+         border-color: #99c #336 #336 #99c;}
+.b3l    {background: #669; text-align: left;
+         border-color: #99c #336 #336 #99c;}
+.b4     {font-size:small}
+.emp    {color: yellow;}
+.add1   {line-height: 100%;
+         border-width: 0px;font-size:small;}
+.add2	{background: #9ac;
+         border-width: 0px;}
+.add3{background: #006; border-width: 0px;color: #cfc;}

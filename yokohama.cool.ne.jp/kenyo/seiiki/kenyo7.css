@@ -1,0 +1,67 @@
+.border {  background-color: #000000}
+.blue {  color: #0099FF}
+.yellow {  color: #FFFF00}
+.red {  color: #FF0000}
+.green {  color: #00FF00}
+.skyblue {  color: #00FFFF}
+.midred {  color: #FF00FF}
+.orange {  color: #FFCC00}
+.white {  color: #FFFFFF}
+.deepblue {  color: #0000FF}
+.deepgreen {  color: #009900}
+.coffee {  color: #996600}
+tr {  font-size: 9pt}
+body {  font-family: "Verdana", "Arial", "ËÎÌו"; font-size: 9pt; background-attachment: fixed; background-image:  url("../images/b05.jpg"/*tpa=http://yokohama.cool.ne.jp/kenyo/images/b05.jpg*/)}
+.olive {  color: #808000}
+.Teal {  color: #008080}
+.Maroon {  color: #800000}
+.Navy {  color: #000080}
+.Gray {  color: #808080}
+.Purple {  color: #800080}
+.Silver {  color: #C0C0C0}
+.td {  text-align: center}
+.td2 {
+	font-size: 9pt;
+	text-decoration: none;
+	border: #000000 solid;
+	background-color: #00FF00;
+	border-width: 3px 2px;
+	line-height: 150%;
+}
+.td3 {  font-size: 9pt; text-decoration: none; background-color: #FFCC00; border: #000000; border-style: solid; border-top-width: 3px; border-right-width: 2px; border-bottom-width: 3px; border-left-width: 2px}
+a:active {
+	text-decoration: none;
+	color: #000000;
+	background-color: #00CC00;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #0066FF;
+	border-right-color: #0066FF;
+	border-bottom-color: #0066FF;
+	border-left-color: #0066FF;
+}
+a:hover {
+	text-decoration: none;
+	color: #000000;
+	background-color: #00CC00;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #0066FF;
+	border-right-color: #0066FF;
+	border-bottom-color: #0066FF;
+	border-left-color: #0066FF;
+}
+.seablue {  color: #00CCFF}
+.midblue {  color: #0066FF}

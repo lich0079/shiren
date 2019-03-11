@@ -1,0 +1,50 @@
+.border {  background-color: #000000}
+.blue {  color: #0099FF}
+.yellow {  color: #FFFF00}
+.red {  color: #FF0000}
+.green {  color: #00FF00}
+.skyblue {  color: #00FFFF}
+.midred {  color: #FF00FF}
+.orange {  color: #FFCC00}
+.white {  color: #FFFFFF}
+.deepblue {  color: #0000FF}
+.deepgreen {  color: #009900}
+.coffee {  color: #996600}
+tr {  font-size: 9pt}
+body {  font-family: "Verdana", "Arial", "ËÎÌו"; font-size: 9pt; background-attachment: fixed; background-image:  url("images/BK1.gif"/*tpa=http://yokohama.cool.ne.jp/kenyo/images/BK1.gif*/)}
+.olive {  color: #808000}
+.Teal {  color: #008080}
+.Maroon {  color: #800000}
+.Navy {  color: #000080}
+.Gray {  color: #808080}
+.Purple {  color: #800080}
+.Silver {  color: #C0C0C0; text-decoration: none; background-color: #0066FF; text-align: left; border: #000000; border-style: solid; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px}
+.td {  font-size: 9pt; font-weight: bold; text-align: left; text-decoration: none; border: #000000; border-style: solid; border-top-width: 3px; border-right-width: 3px; border-bottom-width: 3px; border-left-width: 3px; background-color: #000000}
+.td2 {  font-size: 9pt; text-decoration: none; text-align: left; border: #000000; border-style: solid; border-top-width: 4px; border-right-width: 4px; border-bottom-width: 4px; border-left-width: 4px; background-color: #000099}
+.td3 {  font-size: 9pt; text-decoration: none; background-color: #0000FF; border: 4px #000000 solid}
+a:active {
+	text-decoration: none;
+	color: #FFFF00;
+	position: relative;
+	left: 1px;
+	bottom: 1px;
+
+}
+a:hover {
+	text-decoration: none;
+	color: #FFFF00;
+	position: relative;
+	left: 1px;
+	bottom: 1px;
+}
+.seablue {  color: #00CCFF}
+.midblue {  color: #0066FF}
+.midgreen {
+	color: #00CC00;
+}
+.glowblue {
+	filter: Glow(Color="#0099FF", Strength=4);
+}
+.dropshadow {
+	filter: DropShadow(Color="#333333", OffX=4, OffY=4, Positive=10);
+}

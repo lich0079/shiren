@@ -1,0 +1,47 @@
+body    {background-image:  url("../images/bk1.gif"/*tpa=http://yokohama.cool.ne.jp/kenyo/Shiren/Shiren_Win/images/bk1.gif*/);; background-attachment: fixed}
+a       {text-decoration:none; font-weight: bolder;color:#00FF00;}
+a:hover {color:#009999;}
+.text   {line-height: 120%; font-size: x-small;}
+.title  {font-family: "Arial"; font-weight: bolder; color: #0099FF;}
+.en     {font-family: "Arial";}
+.en2	{font-family: "Arial"; color: #000066;}
+.num    {font-family: "Arial"; text-align: right;}
+.blue   {color: #00c;}
+.red    {color: #900;}
+.green  {color: #060;}
+table   {line-height: 120%; font-size: small;
+         border-style: solid;
+         border-width: 1px;
+         border-color: #000099;}
+th      {font-weight: bold; font-size: x-small;
+         color: #fff; background: #669;
+         border-style: solid;
+         border-width: 1px;
+         border-color: #999 #333 #333 #999;}
+td      {color: #000; background: #ccc; font-size: x-small;
+         border-color: #fff #999 #999 #fff;; border: 1px solid}
+.b1     {background: #abd; font-size: x-small;
+         border-color: #ccf #669 #669 #ccf;}
+.b2     {background: #669;color:#fff; font-size: small;
+         border-color: #99c #336 #336 #99c;}
+.b3     {background: #009999; text-align: right;
+         border-color: #99c #336 #336 #99c;}
+.b3l    {background: #669; text-align: left;
+         border-color: #99c #336 #336 #99c;}
+.b4    {background: #FFFFFF;}
+.b5    {background: #ccc; text-align: center;}
+.b6    {background: #06f; text-align: left; font-size: x-small;}
+.b7    {background: #f0f0f0;}
+.b8    {background: #7777aa;color:#ffaa77; border-color: #99c #336 #336 #99c;}
+.b9    {background: #8899bb; border-color: #ccf #669 #669 #ccf;}
+.b10   {color: #000; background: #dcdcdc; text-align: center;}
+.b11   {background:; border-width:0px;}
+.b12   {background: #009999; text-align: center; border-color: #99c #336 #336 #99c;}
+.waku  { border-width:0px; font-size: x-small;}
+.tue   { font-size: x-small;}
+.emp    {color: yellow;}
+.add1   {line-height: 100%;
+         border-width: 0px;font-size:small;}
+.add2	{background: #9ac;
+         border-width: 0px;}
+.add3{background: #006; border-width: 0px;color: #cfc;}
